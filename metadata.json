@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Fruit AR",
+  "description": "An interactive AR Ninja Fruit game using MediaPipe Hand Landmarker for real-time hand-slashing gameplay.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
